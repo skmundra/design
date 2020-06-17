@@ -40,28 +40,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "7E9A5C09-9FAB-4BE1-9678-21DE2851F6A8"
-    },
-    {
-      "class": "text",
-      "id": "767F776E-09F6-430B-9395-A306436F34D2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6EA453AE-FCEF-4081-9586-0B17F3AA9E12"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0D81D844-0EC6-4FEC-AFB3-69FFB7ADEBE2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "69F0A7C6-A62F-454D-A6E9-C57E5D315424"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2B03057C-68AA-4499-9677-EDDFE4DB3B0D"
+      "class": "artboard",
+      "id": "3D5411B2-1FB7-40BF-9B73-3C6C0BCD274E"
     }
   ],
   "name": "Page 1",

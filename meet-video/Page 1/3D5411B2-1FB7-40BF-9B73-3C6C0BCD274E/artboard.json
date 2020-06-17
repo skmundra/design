@@ -1,9 +1,15 @@
 {
-  "_class": "shapePath",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9C295F6C-3BDD-4D19-8A0F-72BC59014658",
-  "edited": true,
+  "do_objectID": "3D5411B2-1FB7-40BF-9B73-3C6C0BCD274E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,68 +22,67 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3.2,
-    "width": 3.2,
-    "x": 3.387659625419476,
-    "y": 3.733333333333334
+    "height": 769,
+    "width": 837,
+    "x": 1482,
+    "y": -73
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "isClosed": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Path",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 0,
-  "points": [
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.22385762510000018, 1}",
-      "curveMode": 2,
-      "curveTo": "{0.77614237489999982, 1}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49999999999999983, 1}"
+      "class": "text",
+      "id": "7E9A5C09-9FAB-4BE1-9678-21DE2851F6A8"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0.22385762510000026}",
-      "curveMode": 2,
-      "curveTo": "{0, 0.77614237489999971}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0, 0.5}"
+      "class": "text",
+      "id": "767F776E-09F6-430B-9395-A306436F34D2"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0.77614237489999982, 0}",
-      "curveMode": 2,
-      "curveTo": "{0.22385762510000018, 0}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{0.49999999999999983, 0}"
+      "class": "shapeGroup",
+      "id": "6EA453AE-FCEF-4081-9586-0B17F3AA9E12"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0.77614237489999971}",
-      "curveMode": 2,
-      "curveTo": "{1, 0.22385762510000026}",
-      "hasCurveFrom": true,
-      "hasCurveTo": true,
-      "point": "{1, 0.5}"
+      "class": "symbolInstance",
+      "id": "0D81D844-0EC6-4FEC-AFB3-69FFB7ADEBE2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "69F0A7C6-A62F-454D-A6E9-C57E5D315424"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B03057C-68AA-4499-9677-EDDFE4DB3B0D"
     }
   ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -85,7 +90,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 5,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -112,7 +117,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EC1FF2C5-2B1C-4395-845F-B8C0E5834B81",
+    "do_objectID": "89E3A761-EF46-4BF8-B082-523A25AD1B23",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,5 +128,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
