@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.6282102162107304,
+    "green": 0.6282102162107304,
+    "red": 0.6918591485507246
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "21cebb20-b0bf-11ea-adb1-318292f3adc6",
+  "do_objectID": "D6C8EF2B-A459-4017-9A8B-F3C40FFBF748",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,53 +22,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 985,
+    "width": 455,
+    "x": 2569,
+    "y": 1381
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "3D5411B2-1FB7-40BF-9B73-3C6C0BCD274E"
-    },
-    {
-      "class": "artboard",
-      "id": "3C30D1A7-1C29-4F93-8A32-9E3C6C0A2AFA"
-    },
-    {
-      "class": "artboard",
-      "id": "CFBC2CC3-7BF5-4291-AE48-E35D47E263BB"
-    },
-    {
-      "class": "artboard",
-      "id": "D6C8EF2B-A459-4017-9A8B-F3C40FFBF748"
+      "class": "rectangle",
+      "id": "A4021EE8-DBC6-4FC1-BA22-5F9880FCF5B6"
     }
   ],
-  "name": "Page 1",
+  "name": "Artboard",
   "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -96,7 +97,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9F28D43D-56A9-4F60-84B9-C04B0BBF4D83",
+    "do_objectID": "4ED956EE-FE33-4D53-8562-020616759AE4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -110,7 +111,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
