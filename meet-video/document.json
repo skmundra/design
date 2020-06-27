@@ -1,5 +1,6 @@
 {
   "_class": "document",
+  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -21,11 +22,14 @@
     "images": [
     ]
   },
+  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "21cee230-b0bf-11ea-adb1-318292f3adc6",
   "fontReferences": [
   ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -37,12 +41,17 @@
     ]
   },
   "meta": {
-    "appVersion": "65.1",
-    "build": 95501,
-    "version": 127
+    "appVersion": "66.1",
+    "build": 97080,
+    "version": 130
   },
   "pages": [
     "Page 1",
     "Symbols"
-  ]
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
 }
